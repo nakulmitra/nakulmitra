@@ -31,9 +31,7 @@ I run a YouTube channel called **Dev Portal** to simplify backend concepts for d
 
 ## 💼 Project Portfolio
 
-Explore all my technical projects, tutorials, and demos:
-
-👉 [**View My GitHub Portfolio**](https://github.com/nakulmitra/project-portfolio)
+Check out my complete project portfolio here 👉 [View Portfolio](https://github.com/nakulmitra/project-portfolio)
 
 ## 🤝 Let's Connect
 
