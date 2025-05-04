@@ -22,6 +22,12 @@ I'm a passionate **Software Developer** with 3+ years of experience in building 
 - **Other Skills:** REST APIs, Microservices, Redis Rate Limiting, AOP
 
 
+## 📚 Currently Learning
+
+![Linux](https://img.shields.io/badge/Linux-Command%20Line-blue?logo=linux)
+![Shell Scripting](https://img.shields.io/badge/Shell-Scripting-lightgrey?logo=gnu-bash)
+
+
 ## 🧰 Tools & Technologies
 
 <p align="center">
