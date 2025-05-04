@@ -52,7 +52,7 @@ I'm a passionate **Software Developer** with 3+ years of experience in building 
 
 ## 📄 Resume
 
-- 📄 [View My Resume](https://github.com/nakulmitra/nakulmitra/blob/master/resume/Nakul_Mitra_Java_Spring_Boot_PostgreSQL_Redis.pdf)
+- [View My Resume](https://github.com/nakulmitra/nakulmitra/blob/master/resume/Nakul_Mitra_Java_Spring_Boot_PostgreSQL_Redis.pdf)
 
 
 ## 💼 Project Portfolio
