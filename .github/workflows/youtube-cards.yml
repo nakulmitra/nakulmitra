@@ -21,7 +21,7 @@ jobs:
           max_videos: 6
           card_width: 250
           border_radius: 5
-          background_color: "#0dffffff1117"
+          background_color: "#ffffff"
           title_color: "#24292f"
           stats_color: "#57606a"
           theme_context_light: '{ "background_color": "#ffffff", "title_color": "#24292f", "stats_color": "#57606a" }'
