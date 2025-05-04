@@ -42,7 +42,8 @@ Check out my complete project portfolio here 👉 [View Portfolio](https://githu
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nakulmitra&show_icons=true&theme=default" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=nakulmitra&show_icons=true&theme=default" /> -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nakulmitra&theme=default" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=nakulmitra&theme=default" />
 </p>
 
