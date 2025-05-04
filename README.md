@@ -36,8 +36,8 @@ Check out my complete project portfolio here 👉 [View Portfolio](https://githu
 ## 🤝 Let's Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/nakul-mitra-microservices-spring-boot-java-postgresql/)
+- 📄 [View My Resume](https://github.com/nakulmitra/nakulmitra/blob/master/resume/Nakul_Mitra_Java_Spring_Boot_PostgreSQL_Redis.pdf)
 - 📧 Email: nakulmitra2114@gmail.com
-- 📄 [Resume] (https://github.com/nakulmitra/nakulmitra/blob/master/resume/Nakul_Mitra_Java_Spring_Boot_PostgreSQL_Redis.pdf)
 
 ## 📊 GitHub Stats
 
