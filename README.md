@@ -7,7 +7,7 @@ I'm a passionate **Software Developer** with 3+ years of experience in building 
 
 - 💼 3+ years of backend development experience at **TCS**
 - 🛠️ Lead developer of **Prime Events**, an internal event management platform
-- ☕ Migrated apps from Java 8 to 17 & Spring Boot 2.7.0 to 3.4.3
+- ☕ Migrated apps from monolithic to microservices architecture
 - 🚀 Implemented Redis-based sliding window rate limiting using custom annotations and AOP
 - 📈 Worked on performance tuning, HQL issue resolution, and scalable microservice architecture
 - 🏆 Received **15+ awards & appreciations** for contributions
