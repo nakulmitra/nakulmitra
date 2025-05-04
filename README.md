@@ -25,6 +25,9 @@ I run a YouTube channel called **Dev Portal** to simplify backend concepts for d
 
 👉 [Check it out here](https://www.youtube.com/@DevPortal2114)
 
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
+
 ## 🛠️ Tech Stack
 
 - **Languages:** Java, Python, SQL  
