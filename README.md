@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nakulmitra&label=Profile%20views&color=0e75b6&style=for-the-badge"/>
+</p>
+
 # 👋 Hi, I'm Nakul Mitra
 
 I'm a passionate **Software Developer** with 3+ years of experience in building robust backend systems using Java, Spring Boot, PostgreSQL, and Redis. I enjoy solving complex problems, optimizing system performance, and working on scalable microservice-based applications.
@@ -29,27 +33,6 @@ I run a YouTube channel called **Dev Portal** to simplify backend concepts for d
 - **Dev Tools:** Git, Maven  
 - **Other Skills:** REST APIs, Microservices, Redis Rate Limiting, AOP
 
-## 📄 Resume
-
-- 📄 [View My Resume](https://github.com/nakulmitra/nakulmitra/blob/master/resume/Nakul_Mitra_Java_Spring_Boot_PostgreSQL_Redis.pdf)
-
-## 💼 Project Portfolio
-
-Check out my complete project portfolio here 👉 [View Portfolio](https://github.com/nakulmitra/project-portfolio)
-
-## 🤝 Let's Connect
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/nakul-mitra-microservices-spring-boot-java-postgresql/)
-- 📧 Email: nakulmitra2114@gmail.com
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=nakulmitra&show_icons=true&theme=vue" /> -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nakulmitra&theme=vue" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nakulmitra&theme=vue" />
-</p>
-
 ## 🧰 Tools & Technologies
 
 <p align="center">
@@ -71,8 +54,25 @@ Check out my complete project portfolio here 👉 [View Portfolio](https://githu
   <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"/>
 </p>
 
+## 📄 Resume
+
+- 📄 [View My Resume](https://github.com/nakulmitra/nakulmitra/blob/master/resume/Nakul_Mitra_Java_Spring_Boot_PostgreSQL_Redis.pdf)
+
+## 💼 Project Portfolio
+
+Check out my complete project portfolio here 👉 [View Portfolio](https://github.com/nakulmitra/project-portfolio)
+
+## 🤝 Let's Connect
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/nakul-mitra-microservices-spring-boot-java-postgresql/)
+- 📧 Email: nakulmitra2114@gmail.com
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nakulmitra&label=Profile%20views&color=0e75b6&style=for-the-badge"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=nakulmitra&show_icons=true&theme=vue" /> -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nakulmitra&theme=vue" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nakulmitra&theme=vue" />
 </p>
 
 <!-- ## 🧾 Recent Commits -->
