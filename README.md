@@ -1,10 +1,7 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nakulmitra&label=Profile%20views&color=0e75b6&style=for-the-badge"/>
-</p>
-
-# 👋 Hi, I'm Nakul Mitra
+# 👋 Hi, I'm Nakul Mitra <img src="https://komarev.com/ghpvc/?username=nakulmitra&label=Profile%20views&color=0e75b6&style=for-the-badge" align="right"/>
 
 I'm a passionate **Software Developer** with 3+ years of experience in building robust backend systems using Java, Spring Boot, PostgreSQL, and Redis. I enjoy solving complex problems, optimizing system performance, and working on scalable microservice-based applications.
+
 
 ## 🧑‍💼 Professional Summary
 
@@ -14,6 +11,7 @@ I'm a passionate **Software Developer** with 3+ years of experience in building 
 - 🚀 Implemented Redis-based sliding window rate limiting using custom annotations and AOP
 - 📈 Worked on performance tuning, HQL issue resolution, and scalable microservice architecture
 - 🏆 Received **15+ awards & appreciations** for contributions
+
 
 ## 📺 YouTube Channel: Dev Portal
 
@@ -34,6 +32,7 @@ I run a YouTube channel called **Dev Portal** to simplify backend concepts for d
 [![Locks vs Atomic Variables – Solve Concurrency Issues Like a Pro](https://ytcards.demolab.com/?id=oiEXFKLNQpc&title=Locks+vs+Atomic+Variables+%E2%80%93+Solve+Concurrency+Issues+Like+a+Pro&lang=en&timestamp=1743653704&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Locks vs Atomic Variables – Solve Concurrency Issues Like a Pro")](https://www.youtube.com/watch?v=oiEXFKLNQpc)
 <!-- END YOUTUBE-CARDS -->
 
+
 ## 🛠️ Tech Stack
 
 - **Languages:** Java, Python, SQL  
@@ -41,6 +40,7 @@ I run a YouTube channel called **Dev Portal** to simplify backend concepts for d
 - **Database & Caching:** PostgreSQL, Redis  
 - **Dev Tools:** Git, Maven  
 - **Other Skills:** REST APIs, Microservices, Redis Rate Limiting, AOP
+
 
 ## 🧰 Tools & Technologies
 
@@ -63,13 +63,16 @@ I run a YouTube channel called **Dev Portal** to simplify backend concepts for d
   <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"/>
 </p>
 
+
 ## 📄 Resume
 
 - 📄 [View My Resume](https://github.com/nakulmitra/nakulmitra/blob/master/resume/Nakul_Mitra_Java_Spring_Boot_PostgreSQL_Redis.pdf)
 
+
 ## 💼 Project Portfolio
 
 Check out my complete project portfolio here 👉 [View Portfolio](https://github.com/nakulmitra/project-portfolio)
+
 
 ## 🤝 Let's Connect
 
