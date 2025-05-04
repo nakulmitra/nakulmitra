@@ -13,26 +13,6 @@ I'm a passionate **Software Developer** with 3+ years of experience in building 
 - 🏆 Received **15+ awards & appreciations** for contributions
 
 
-## 📺 YouTube Channel: Dev Portal
-
-I run a YouTube channel called **Dev Portal** to simplify backend concepts for developers. I cover:
-
-- 🧵 Java (Threads, Collections, Core)
-- 🛢️ PostgreSQL (Indexing, CTEs, Optimization)
-- 🧪 Mini projects and backend architecture
-
-👉 [Check it out here](https://www.youtube.com/@DevPortal2114)
-
-<!-- BEGIN YOUTUBE-CARDS -->
-[![Master SQL Subqueries | Single-row | Multi-row | Correlated | Uncorrelated Subqueries](https://ytcards.demolab.com/?id=kvPMeXoykAU&title=Master+SQL+Subqueries+%7C+Single-row+%7C+Multi-row+%7C+Correlated+%7C+Uncorrelated+Subqueries&lang=en&timestamp=1745845280&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Master SQL Subqueries | Single-row | Multi-row | Correlated | Uncorrelated Subqueries")](https://www.youtube.com/watch?v=kvPMeXoykAU)
-[![Functional Interface in Java (With Real-World Examples) | Java 8 Feature](https://ytcards.demolab.com/?id=e5Q_kQFIdU4&title=Functional+Interface+in+Java+%28With+Real-World+Examples%29+%7C+Java+8+Feature&lang=en&timestamp=1745415037&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Functional Interface in Java (With Real-World Examples) | Java 8 Feature")](https://www.youtube.com/watch?v=e5Q_kQFIdU4)
-[![Java Threads Tutorial – Thread Pools & Executors Explained with Examples | Fixed, Cached, Scheduled](https://ytcards.demolab.com/?id=bUC6tft9TxM&title=Java+Threads+Tutorial+%E2%80%93+Thread+Pools+%26+Executors+Explained+with+Examples+%7C+Fixed%2C+Cached%2C+Scheduled&lang=en&timestamp=1744863302&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Java Threads Tutorial – Thread Pools & Executors Explained with Examples | Fixed, Cached, Scheduled")](https://www.youtube.com/watch?v=bUC6tft9TxM)
-[![SQL Window Functions Explained (ROW_NUMBER, RANK, LAG, LEAD, SUM, AVG) | SQL Tutorial](https://ytcards.demolab.com/?id=gMymeinwF8A&title=SQL+Window+Functions+Explained+%28ROW_NUMBER%2C+RANK%2C+LAG%2C+LEAD%2C+SUM%2C+AVG%29+%7C+SQL+Tutorial&lang=en&timestamp=1744604102&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "SQL Window Functions Explained (ROW_NUMBER, RANK, LAG, LEAD, SUM, AVG) | SQL Tutorial")](https://www.youtube.com/watch?v=gMymeinwF8A)
-[![Inter-Thread Communication – wait(), notify(), notifyAll() and Producer-Consumer Problem](https://ytcards.demolab.com/?id=5k-gXIFWGRc&title=Inter-Thread+Communication+%E2%80%93+wait%28%29%2C+notify%28%29%2C+notifyAll%28%29+and+Producer-Consumer+Problem&lang=en&timestamp=1744258500&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Inter-Thread Communication – wait(), notify(), notifyAll() and Producer-Consumer Problem")](https://www.youtube.com/watch?v=5k-gXIFWGRc)
-[![Locks vs Atomic Variables – Solve Concurrency Issues Like a Pro](https://ytcards.demolab.com/?id=oiEXFKLNQpc&title=Locks+vs+Atomic+Variables+%E2%80%93+Solve+Concurrency+Issues+Like+a+Pro&lang=en&timestamp=1743653704&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Locks vs Atomic Variables – Solve Concurrency Issues Like a Pro")](https://www.youtube.com/watch?v=oiEXFKLNQpc)
-<!-- END YOUTUBE-CARDS -->
-
-
 ## 🛠️ Tech Stack
 
 - **Languages:** Java, Python, SQL  
@@ -72,6 +52,26 @@ I run a YouTube channel called **Dev Portal** to simplify backend concepts for d
 ## 💼 Project Portfolio
 
 Check out my complete project portfolio here 👉 [View Portfolio](https://github.com/nakulmitra/project-portfolio)
+
+
+## 📺 YouTube Channel: Dev Portal
+
+I run a YouTube channel called **Dev Portal** to simplify backend concepts for developers. I cover:
+
+- 🧵 Java (Threads, Collections, Core)
+- 🛢️ PostgreSQL (Indexing, CTEs, Optimization)
+- 🧪 Mini projects and backend architecture
+
+👉 [Check it out here](https://www.youtube.com/@DevPortal2114)
+
+<!-- BEGIN YOUTUBE-CARDS -->
+[![Master SQL Subqueries | Single-row | Multi-row | Correlated | Uncorrelated Subqueries](https://ytcards.demolab.com/?id=kvPMeXoykAU&title=Master+SQL+Subqueries+%7C+Single-row+%7C+Multi-row+%7C+Correlated+%7C+Uncorrelated+Subqueries&lang=en&timestamp=1745845280&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Master SQL Subqueries | Single-row | Multi-row | Correlated | Uncorrelated Subqueries")](https://www.youtube.com/watch?v=kvPMeXoykAU)
+[![Functional Interface in Java (With Real-World Examples) | Java 8 Feature](https://ytcards.demolab.com/?id=e5Q_kQFIdU4&title=Functional+Interface+in+Java+%28With+Real-World+Examples%29+%7C+Java+8+Feature&lang=en&timestamp=1745415037&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Functional Interface in Java (With Real-World Examples) | Java 8 Feature")](https://www.youtube.com/watch?v=e5Q_kQFIdU4)
+[![Java Threads Tutorial – Thread Pools & Executors Explained with Examples | Fixed, Cached, Scheduled](https://ytcards.demolab.com/?id=bUC6tft9TxM&title=Java+Threads+Tutorial+%E2%80%93+Thread+Pools+%26+Executors+Explained+with+Examples+%7C+Fixed%2C+Cached%2C+Scheduled&lang=en&timestamp=1744863302&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Java Threads Tutorial – Thread Pools & Executors Explained with Examples | Fixed, Cached, Scheduled")](https://www.youtube.com/watch?v=bUC6tft9TxM)
+[![SQL Window Functions Explained (ROW_NUMBER, RANK, LAG, LEAD, SUM, AVG) | SQL Tutorial](https://ytcards.demolab.com/?id=gMymeinwF8A&title=SQL+Window+Functions+Explained+%28ROW_NUMBER%2C+RANK%2C+LAG%2C+LEAD%2C+SUM%2C+AVG%29+%7C+SQL+Tutorial&lang=en&timestamp=1744604102&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "SQL Window Functions Explained (ROW_NUMBER, RANK, LAG, LEAD, SUM, AVG) | SQL Tutorial")](https://www.youtube.com/watch?v=gMymeinwF8A)
+[![Inter-Thread Communication – wait(), notify(), notifyAll() and Producer-Consumer Problem](https://ytcards.demolab.com/?id=5k-gXIFWGRc&title=Inter-Thread+Communication+%E2%80%93+wait%28%29%2C+notify%28%29%2C+notifyAll%28%29+and+Producer-Consumer+Problem&lang=en&timestamp=1744258500&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Inter-Thread Communication – wait(), notify(), notifyAll() and Producer-Consumer Problem")](https://www.youtube.com/watch?v=5k-gXIFWGRc)
+[![Locks vs Atomic Variables – Solve Concurrency Issues Like a Pro](https://ytcards.demolab.com/?id=oiEXFKLNQpc&title=Locks+vs+Atomic+Variables+%E2%80%93+Solve+Concurrency+Issues+Like+a+Pro&lang=en&timestamp=1743653704&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Locks vs Atomic Variables – Solve Concurrency Issues Like a Pro")](https://www.youtube.com/watch?v=oiEXFKLNQpc)
+<!-- END YOUTUBE-CARDS -->
 
 
 ## 🤝 Let's Connect
