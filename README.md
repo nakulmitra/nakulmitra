@@ -29,6 +29,10 @@ I run a YouTube channel called **Dev Portal** to simplify backend concepts for d
 - **Dev Tools:** Git, Maven  
 - **Other Skills:** REST APIs, Microservices, Redis Rate Limiting, AOP
 
+## 📄 Resume
+
+- 📄 [View My Resume](https://github.com/nakulmitra/nakulmitra/blob/master/resume/Nakul_Mitra_Java_Spring_Boot_PostgreSQL_Redis.pdf)
+
 ## 💼 Project Portfolio
 
 Check out my complete project portfolio here 👉 [View Portfolio](https://github.com/nakulmitra/project-portfolio)
@@ -36,16 +40,19 @@ Check out my complete project portfolio here 👉 [View Portfolio](https://githu
 ## 🤝 Let's Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/nakul-mitra-microservices-spring-boot-java-postgresql/)
-- 📄 [View My Resume](https://github.com/nakulmitra/nakulmitra/blob/master/resume/Nakul_Mitra_Java_Spring_Boot_PostgreSQL_Redis.pdf)
 - 📧 Email: nakulmitra2114@gmail.com
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=nakulmitra&show_icons=true&theme=default" /> -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nakulmitra&theme=default" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nakulmitra&theme=default" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=nakulmitra&show_icons=true&theme=vue" /> -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nakulmitra&theme=vue" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nakulmitra&theme=vue" />
 </p>
+
+### 🧾 Recent Commits
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nakulmitra&theme=vue)](https://github.com/nakulmitra)
 
 ## 🧰 Tools & Technologies
 
@@ -71,5 +78,9 @@ Check out my complete project portfolio here 👉 [View Portfolio](https://githu
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nakulmitra&label=Profile%20views&color=0e75b6&style=for-the-badge"/>
 </p>
+
+<!-- ## 🧾 Recent Commits -->
+
+<!-- [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nakulmitra&theme=vue)](https://github.com/nakulmitra) -->
 
 **Always learning. Always building. Let's connect and collaborate!**
