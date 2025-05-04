@@ -50,10 +50,6 @@ Check out my complete project portfolio here 👉 [View Portfolio](https://githu
   <img src="https://github-readme-streak-stats.herokuapp.com?user=nakulmitra&theme=vue" />
 </p>
 
-### 🧾 Recent Commits
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nakulmitra&theme=vue)](https://github.com/nakulmitra)
-
 ## 🧰 Tools & Technologies
 
 <p align="center">
