@@ -5,7 +5,7 @@ I'm a passionate **Software Developer** with 3.8+ years of experience in buildin
 
 ## 🧑‍💼 Professional Summary
 
-- 💼 3+ years of backend development experience at **TCS**
+- 💼 3.8+ years of backend development experience at **TCS**
 - 🛠️ Lead developer of **Prime Events**, an internal event management platform
 - ☕ Refactored monolith to microservices for improved scalability
 - 🚀 Implemented Redis-based sliding window rate limiting using custom annotations and AOP
