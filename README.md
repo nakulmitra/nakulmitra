@@ -35,7 +35,7 @@ I'm a passionate **Software Developer** with 3.8+ years of experience in buildin
 ## 🧰 Tools & Technologies
 
 ![Microservices](https://img.shields.io/badge/Microservices-Distributed%20Architecture-blue?logo=microgen&logoColor=white)
-![Java](https://img.shields.io/badge/Java-Backend%20Development-orange?logo=java)
+![Java](https://img.shields.io/badge/Java-Backend%20Development-orange?logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-Spring%20Boot-6DB33F?logo=spring&logoColor=white)
 ![JPA](https://img.shields.io/badge/JPA-Hibernate-59666C?logo=hibernate&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-ORM-59666C?logo=hibernate&logoColor=white)
