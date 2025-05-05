@@ -1,4 +1,8 @@
-# 👋 Hi, I'm Nakul Mitra <img src="https://komarev.com/ghpvc/?username=nakulmitra&label=Profile%20views&color=0e75b6&style=for-the-badge" align="right"/>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=nakulmitra&label=Profile%20views&color=0e75b6&style=for-the-badge" align="right"/>
+</p>
+
+# 👋 Hi, I'm Nakul Mitra
 
 I'm a passionate **Software Developer** with 3.8+ years of experience in building robust backend systems using Java, Spring Boot, PostgreSQL, and Redis. I enjoy solving complex problems, optimizing system performance, and working on scalable microservice-based applications.
 
@@ -35,6 +39,7 @@ I'm a passionate **Software Developer** with 3.8+ years of experience in buildin
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=databricks&logoColor=white"/>
   <img src="https://img.shields.io/badge/AOP-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
@@ -47,12 +52,13 @@ I'm a passionate **Software Developer** with 3.8+ years of experience in buildin
   <img src="https://img.shields.io/badge/STS-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 </p>
 
 
 ## 📄 Resume
 
-- [View My Resume](https://github.com/nakulmitra/nakulmitra/blob/master/resume/Nakul_Mitra_Java_Spring_Boot_PostgreSQL_Redis.pdf)
+[![Resume](https://img.shields.io/badge/Resume-View_PDF-FF0000?logo=adobeacrobatreader&logoColor=white)](https://github.com/nakulmitra/nakulmitra/blob/master/resume/Nakul_Mitra_Java_Spring_Boot_PostgreSQL_Redis.pdf)
 
 
 ## 💼 Project Portfolio
@@ -82,8 +88,9 @@ I run a YouTube channel called **Dev Portal** to simplify backend concepts for d
 
 ## 🤝 Let's Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/nakul-mitra-microservices-spring-boot-java-postgresql/)
-- 📧 Email: nakulmitra2114@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-blue?logo=linkedin)](https://www.linkedin.com/in/nakul-mitra-microservices-spring-boot-java-postgresql/)
+[![Gmail](https://img.shields.io/badge/Gmail-Email-D14836?logo=gmail&logoColor=white)](mailto:nakulmitra2114@gmail.com)
+
 
 ## 📊 GitHub Stats
 
