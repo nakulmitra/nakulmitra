@@ -2,7 +2,7 @@ name: Update Tutorial Repo Stats
 on:
   schedule:
     # Runs every hour, on the hour
-    - cron: "0 12 * * *"
+    - cron: "0 10 * * *"
   workflow_dispatch:
 
 jobs:
@@ -13,7 +13,6 @@ jobs:
       contents: write
     # Run the GitHub Readme YouTube Cards action
     steps:
-      - uses: nakulmitra/github-readme-youtube-cards@main
         with:
           channel_id: UCrGahz8XoaUdvH5x9QkWdEg
           lang: en

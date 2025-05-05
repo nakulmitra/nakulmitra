@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nakul Mitra <img src="https://komarev.com/ghpvc/?username=nakulmitra&label=Profile%20views&color=0e75b6&style=for-the-badge" align="right"/>
 
-I'm a passionate **Software Developer** with 3+ years of experience in building robust backend systems using Java, Spring Boot, PostgreSQL, and Redis. I enjoy solving complex problems, optimizing system performance, and working on scalable microservice-based applications.
+I'm a passionate **Software Developer** with 3.8+ years of experience in building robust backend systems using Java, Spring Boot, PostgreSQL, and Redis. I enjoy solving complex problems, optimizing system performance, and working on scalable microservice-based applications.
 
 
 ## 🧑‍💼 Professional Summary
