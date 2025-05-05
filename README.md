@@ -34,26 +34,26 @@ I'm a passionate **Software Developer** with 3.8+ years of experience in buildin
 
 ## 🧰 Tools & Technologies
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=databricks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AOP-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=rest&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/STS-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-</p>
+![Microservices](https://img.shields.io/badge/Microservices-Distributed%20Architecture-blue?logo=microgen&logoColor=white)
+![Java](https://img.shields.io/badge/Java-Backend%20Development-orange?logo=java)
+![Spring](https://img.shields.io/badge/Spring-Spring%20Boot-6DB33F?logo=spring&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-Hibernate-59666C?logo=hibernate&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-ORM-59666C?logo=hibernate&logoColor=white)
+![AOP](https://img.shields.io/badge/AOP-Crosscutting%20Concern-6DB33F?logo=spring&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Relational%20Database-336791?logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-InMemory%20Store-DC382D?logo=redis&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-API-0e8a16?logo=flask&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-Build%20Tool-C71A36?logo=apachemaven&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Command%20Line-black?logo=linux)
+![Shell Scripting](https://img.shields.io/badge/Shell-Scripting-lightgrey?logo=gnu-bash)
+![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-Relational%20Database-4479A1?logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Backend%20Development-3776AB?logo=python&logoColor=white)
+![Spring Tool Suite](https://img.shields.io/badge/STS-Spring%20Tool%20Suite-6DB33F?logo=spring&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-Code%20Editor-007ACC?logo=visualstudiocode&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-Python%20IDE-000000?logo=pycharm&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-Operating%20System-0078D6?logo=windows&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-API%20Testing-FF6C37?logo=postman&logoColor=white)
 
 
 ## 📄 Resume
