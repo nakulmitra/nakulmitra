@@ -19,41 +19,46 @@ I'm a passionate **Software Developer** with 3.8+ years of experience in buildin
 
 ## 🛠️ Tech Stack
 
-- **Languages:** Java, Python, SQL  
-- **Frameworks:** Spring Boot, Hibernate  
-- **Database & Caching:** PostgreSQL, Redis  
-- **Dev Tools:** Git, Maven  
-- **Other Skills:** REST APIs, Microservices, Redis Rate Limiting, AOP
+- **Languages**:
+![Java](https://img.shields.io/badge/Java-Backend%20Development-orange?logo=openjdk\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Backend%20Development-3776AB?logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Database%20Language-003B57?logo=postgresql\&logoColor=white)
+
+- **Frameworks**:
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Backend%20Framework-6DB33F?logo=springboot\&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-Hibernate-59666C?logo=hibernate&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-ORM-59666C?logo=hibernate\&logoColor=white)
+
+- **Database & Caching**:
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Relational%20Database-336791?logo=postgresql\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-InMemory%20Store-DC382D?logo=redis\&logoColor=white)
+
+- **Other Skills**:
+![REST APIs](https://img.shields.io/badge/REST-API-0e8a16?logo=flask\&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-Distributed%20Architecture-blue?logo=docker\&logoColor=white)
+![Rate Limiting](https://img.shields.io/badge/Rate%20Limiting-Traffic%20Control-DC382D?logo=redis&logoColor=white)
+![AOP](https://img.shields.io/badge/AOP-Crosscutting%20Concern-6DB33F?logo=spring\&logoColor=white)
+
+- **Dev Tools**:
+![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?logo=git\&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-Build%20Tool-C71A36?logo=apachemaven\&logoColor=white)
+
+- **Developer Tools**:
+![Spring Tool Suite](https://img.shields.io/badge/STS-Spring%20Tool%20Suite-6DB33F?logo=spring&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-Code%20Editor-007ACC?logo=visualstudiocode&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-Python%20IDE-000000?logo=pycharm&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-API%20Testing-FF6C37?logo=postman&logoColor=white)
+
+- **OS & Shell**:
+![Linux](https://img.shields.io/badge/Linux-Command%20Line-black?logo=linux)
+![Shell Scripting](https://img.shields.io/badge/Shell-Scripting-lightgrey?logo=gnu-bash)
+![Windows](https://img.shields.io/badge/Windows-Operating%20System-0078D6?logo=windows\&logoColor=white)
 
 
 ## 📚 Currently Learning
 
 ![Linux](https://img.shields.io/badge/Linux-Command%20Line-blue?logo=linux)
 ![Shell Scripting](https://img.shields.io/badge/Shell-Scripting-lightgrey?logo=gnu-bash)
-
-
-## 🧰 Tools & Technologies
-
-![Microservices](https://img.shields.io/badge/Microservices-Distributed%20Architecture-blue?logo=microgen&logoColor=white)
-![Java](https://img.shields.io/badge/Java-Backend%20Development-orange?logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-Spring%20Boot-6DB33F?logo=spring&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA-Hibernate-59666C?logo=hibernate&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-ORM-59666C?logo=hibernate&logoColor=white)
-![AOP](https://img.shields.io/badge/AOP-Crosscutting%20Concern-6DB33F?logo=spring&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Relational%20Database-336791?logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-InMemory%20Store-DC382D?logo=redis&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-API-0e8a16?logo=flask&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-Build%20Tool-C71A36?logo=apachemaven&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-Command%20Line-black?logo=linux)
-![Shell Scripting](https://img.shields.io/badge/Shell-Scripting-lightgrey?logo=gnu-bash)
-![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?logo=git&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-Relational%20Database-4479A1?logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Backend%20Development-3776AB?logo=python&logoColor=white)
-![Spring Tool Suite](https://img.shields.io/badge/STS-Spring%20Tool%20Suite-6DB33F?logo=spring&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-Code%20Editor-007ACC?logo=visualstudiocode&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-Python%20IDE-000000?logo=pycharm&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-Operating%20System-0078D6?logo=windows&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-API%20Testing-FF6C37?logo=postman&logoColor=white)
 
 
 ## 📄 Resume
