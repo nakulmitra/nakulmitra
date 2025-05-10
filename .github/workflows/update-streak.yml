@@ -12,6 +12,9 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
+      - name: Create assets directory if not exists
+        run: mkdir -p assets
+
       - name: Download streak stats image
         run: |
           curl -o assets/streak-stats.svg "https://github-readme-streak-stats.herokuapp.com?user=nakulmitra&theme=vue"
