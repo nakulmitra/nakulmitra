@@ -96,7 +96,8 @@ I run a YouTube channel called **Dev Portal** to simplify backend concepts for d
 
 <p align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=nakulmitra&show_icons=true&theme=vue" /> -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nakulmitra&theme=vue" />
+  <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nakulmitra&theme=vue" /> -->
+  <img src="assets/profile-summary.svg" alt="GitHub Profile Summary" />
   <!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=nakulmitra&theme=vue" /> -->
   <img src="assets/streak-stats.svg" alt="GitHub Streak Stats" />
 </p>
