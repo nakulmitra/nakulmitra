@@ -1,0 +1,34 @@
+name: Update GitHub Streak Stats
+
+on:
+  schedule:
+    - cron: "0 2 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-streak:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Create assets directory if not exists
+        run: mkdir -p assets
+
+      - name: Download streak stats image
+        run: |
+          curl -o assets/profile-summary.svg "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nakulmitra&theme=vue"
+
+      - name: Commit and push if updated
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/profile-summary.svg
+          git diff --cached --quiet || git commit -m "Update profile summary [auto]"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
