@@ -1,4 +1,4 @@
-name: Update GitHub Streak Stats
+name: Update GitHub Profile Summary
 
 on:
   schedule:
