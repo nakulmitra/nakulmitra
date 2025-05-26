@@ -34,7 +34,7 @@ I'm a passionate **Software Developer** with 3.8+ years of experience in buildin
 
 ## 📄 Resume
 
-[![Resume](https://img.shields.io/badge/Resume-View_PDF-FF0000?logo=adobeacrobatreader&logoColor=white)](https://github.com/nakulmitra/nakulmitra/blob/master/resume/Nakul_Mitra_Java_Spring_Boot_PostgreSQL_Redis.pdf)
+[![Resume](https://img.shields.io/badge/Resume-View_PDF-FF0000?logo=adobeacrobatreader&logoColor=white)](https://github.com/nakulmitra/nakulmitra/blob/master/resume/Nakul-Mitra-Resume.pdf)
 
 
 ## 💼 Project Portfolio
