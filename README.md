@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm Nakul Mitra
 
-I'm a passionate **Software Developer** with over 3.9 years of experience in building robust backend systems using Java, Spring Boot, PostgreSQL, and Redis. I enjoy solving complex problems, optimizing system performance, and working on scalable microservice-based applications.
+I'm a passionate **Software Developer** with over 3.10 years of experience in building robust backend systems using Java, Spring Boot, PostgreSQL, and Redis. I enjoy solving complex problems, optimizing system performance, and working on scalable microservice-based applications.
 
 
 ## 🧑‍💼 Professional Summary
