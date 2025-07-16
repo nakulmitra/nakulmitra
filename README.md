@@ -23,7 +23,7 @@ I'm a passionate **Software Developer** with over 3.9 years of experience in bui
 - **Frameworks:** Spring Boot, Hibernate  
 - **Database & Caching:** PostgreSQL, Redis  
 - **Dev Tools:** Git, Maven  
-- **Other Skills:** REST APIs, Microservices, Redis Rate Limiting, AOP
+- **Other Skills:** REST APIs, Microservices, Redis Rate Limiting, AOP, Linux
 
 
 ## 📚 Currently Learning
