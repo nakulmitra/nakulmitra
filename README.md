@@ -20,10 +20,11 @@ I'm a passionate **Software Developer** with over 3.9 years of experience in bui
 ## 🛠️ Tech Stack
 
 - **Languages:** Java, Python, SQL  
-- **Frameworks:** Spring Boot, Hibernate  
+- **Frameworks:** Spring Boot, Hibernate
+- **Libraries & Tools:** Spring Data JPA, Jackson, SLF4J
 - **Database & Caching:** PostgreSQL, Redis  
-- **Dev Tools:** Git, Maven  
-- **Other Skills:** REST APIs, Microservices, Redis Rate Limiting, AOP, Linux
+- **Dev Tools:** Git, Maven, Spring Tool Suite, VS Code
+- **Other Skills:** REST APIs, Microservices, Redis Rate Limiting, AOP, Linux, Exception Handling
 
 
 ## 📚 Currently Learning
