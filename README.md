@@ -9,7 +9,7 @@ I'm a passionate **Software Developer** with over 3.9 years of experience in bui
 
 ## 🧑‍💼 Professional Summary
 
-- 💼 4 years of backend development experience at **TCS**
+- 💼 4 years of backend development experience at **TCS**, currently working at Sopra Steria.
 - 🛠️ Lead developer of **Prime Events**, an internal event management platform
 - ☕ Refactored monolith to microservices for improved scalability
 - 🚀 Implemented Redis-based sliding window rate limiting using custom annotations and AOP
