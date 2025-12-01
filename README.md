@@ -20,7 +20,7 @@ I'm a passionate **Software Developer** with over 4 years of experience in build
 ## 🛠️ Tech Stack
 
 - **Languages:** Java, Python, SQL  
-- **Frameworks:** Spring Boot, Hibernate
+- **Frameworks:** Spring Boot, Hibernate, JSF
 - **Libraries & Tools:** Spring Data JPA, Jackson, SLF4J
 - **Database & Caching:** PostgreSQL, Redis  
 - **Dev Tools:** Git, Maven, Spring Tool Suite, VS Code
