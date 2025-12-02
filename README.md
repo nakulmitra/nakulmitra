@@ -48,6 +48,7 @@ Check out my complete project portfolio here 👉 [View Portfolio](https://githu
 ![Microservices](https://img.shields.io/badge/Microservices-Distributed%20Architecture-blue?logo=docker&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-Backend%20Development-orange?logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-Spring%20Boot-6DB33F?logo=spring&logoColor=white)
+![JSF](https://img.shields.io/badge/JSF-JavaServer%20Faces-orange)
 ![JPA](https://img.shields.io/badge/JPA-Hibernate-59666C?logo=hibernate&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-ORM-59666C?logo=hibernate&logoColor=white)
 ![AOP](https://img.shields.io/badge/AOP-Crosscutting%20Concern-6DB33F?logo=spring&logoColor=white)
