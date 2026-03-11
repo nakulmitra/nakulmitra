@@ -107,4 +107,4 @@ I run a YouTube channel called **Dev Portal** to simplify backend concepts for d
 
 <!-- [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nakulmitra&theme=vue)](https://github.com/nakulmitra) -->
 
-**Always learning. Always building. Let's connect and collaborate!**
+**Always learning. Always building!**
