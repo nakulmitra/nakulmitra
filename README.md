@@ -74,8 +74,8 @@ I run a YouTube channel called **Dev Portal** to simplify backend concepts for d
 
 - 🧵 Java (Threads, Collections, Core)
 - 🛢️ PostgreSQL (Indexing, CTEs, Optimization)
-- 🧪 Mini projects and backend architecture
 - 🐧 Linux for Developers
+- 🧪 Mini projects and backend architecture
 
 👉 [Check it out here](https://www.youtube.com/@DevPortal2114)
 
