@@ -30,7 +30,6 @@ I'm a passionate **Software Developer** with over 4.5 years of experience in bui
 ## 📚 Currently Learning
 
 ![Linux](https://img.shields.io/badge/Linux-Command%20Line-blue?logo=linux)
-![Shell Scripting](https://img.shields.io/badge/Shell-Scripting-lightgrey?logo=gnu-bash)
 
 
 ## 📄 Resume
